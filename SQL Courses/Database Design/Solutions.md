@@ -99,9 +99,10 @@ Question
 Out of these possible answers, what would be the best way to organize the fact table and dimensional tables?
 
 Possible Answers
+- [x] A fact table holding duration_mins, distance_km and foreign keys to dimension tables holding route details and week details, respectively.
 - [x] A fact table holding duration_mins and foreign keys to dimension tables holding route details and week details, respectively.
 - [ ] A fact table holding week,month, year and foreign keys to dimension tables holding route details and duration details, respectively.
-- [ ] A fact table holding route_name,park_name, distance_km,city_name, and foreign keys to dimension tables holding week details and duration details, respectively.
+- [ ] A fact table holding route_name,park_name, distance_km, city_name, and foreign keys to dimension tables holding week details and duration details, respectively.
 
 
 - [x] Create a dimension table called route that will hold the route information.
