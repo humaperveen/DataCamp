@@ -74,6 +74,21 @@ Possible Answers
 - [x] To create accessible and isolated data repositories for other analysts
 
 
+## Classifying data models
+In the previous video, we learned about three different levels of data models: conceptual, logical, and physical.
+Each of these cards hold a tool or concept that fits into a certain type of data model. Place the cards in the correct category.
+
+Conceptual Data Model-
+* Entities, attributes, and relationships
+* Gathers business requirements
+  
+Logical Data Model-
+* Determining tables and columns
+* Relational model
+  
+Physical Data Model-
+* File structure of data storage
+
 
 ## Deciding fact and dimension tables
 Imagine that you love running and data. It's only natural that you begin collecting data on your weekly running routine. You're most concerned with tracking how long you are running each week. You also record the route and the distances of your runs. You gather this data and put it into one table called Runs with the following schema: 
