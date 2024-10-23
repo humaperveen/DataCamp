@@ -29,6 +29,26 @@ Possible Answers
 
 OLTP because this table's structure appears to require frequent updates.
 
+## Name that data type!
+In the previous video, you learned about structured, semi-structured, and unstructured data. Structured data is the easiest to analyze because it is organized and cleaned.
+On the other hand, unstructured data is schemaless, but scales well. In the middle we have semi-structured data for everything in between.
+
+Each of these cards hold a type of data. Place them in the correct category.
+
+Unstructured-
+* Zip file of all text messages ever received
+* Images in your photo library
+
+Semi-structured-
+* JSON object of tweets outputted in real-time by the Twitter API
+* `<note><from>Lis</from>
+<heading>Thanks Ruanne!
+</heading><body>You rock</body></note>`
+* CSVs of open data downloaded from your local government websites
+
+Structured-
+* A relational database with latest withdrawals and deposits made by clients
+
 
 ## Ordering ETL Tasks
 You have been hired to manage data at a small online clothing store. Their system is quite outdated because their only data repository is a traditional database to record transactions.
